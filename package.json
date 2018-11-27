@@ -1,0 +1,25 @@
+{
+  "name": "showcase-leveldb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "simple": "node simple.js",
+    "sublevel": "node sublevel.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manbearpixel/showcase-leveldb.git"
+  },
+  "author": "Pixxl <manbearpixel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Manbearpixel/showcase-leveldb/issues"
+  },
+  "homepage": "https://github.com/Manbearpixel/showcase-leveldb#readme",
+  "dependencies": {
+    "level": "^4.0.0",
+    "subleveldown": "^3.0.1"
+  }
+}
